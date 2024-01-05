@@ -47,7 +47,7 @@ export const Layout = ({ children }: LayoutProps) => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://gitlab.com/applicationChallenges/templates/javascript'
+            href='https://github.com/Akshay-gavandi8076/Inline-Calculator'
           >
             <IconButton>
               <HelpIcon />
